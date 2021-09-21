@@ -1,2 +1,2 @@
 # CS3-HEBRON-HIGH-SCHOOL
-These are all the projects I completed for my 3rd year computer science class in high school. Along with each ones respective instructions. I am a junior as of the time of creating these projects
+These are my projects from junior year of highschool. These were the labs and major labs from computer science 3
