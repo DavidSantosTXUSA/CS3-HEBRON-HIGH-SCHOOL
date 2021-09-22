@@ -1,0 +1,49 @@
+Type of Hashing: Quadratic Probing
+
+Hash Function Used: int) ((((long) ID * ID) / 1200L) % hashTable.length)
+
+Number of records added to the table: 50000 
+Table Size: 74626
+Load Factor: 0.67
+
+Total Insertion Time: 1.604694415167E12 seconds
+Average Insertion time per element: 4.395459666831927E7 seconds
+
+Total Table Insertion Collisions: 20699
+Average Table Insertion Collisions: 0.5669716226580476
+
+Number of collisions vs. Number of Insertions: 56.69716226580476%
+
+Total Successful Search Time: 1.60469441517E12 seconds
+Average Successful Search Time: 1.60469441517E9 seconds
+Total Probes Needed: 1256
+Average Probes Needed: 1.256
+
+Total Unsuccessful Search Time: 1.604694415173E12 seconds
+Average Unsuccessful Search Time: 1.604694415173E9 seconds
+Total Probes Needed: 1402
+Average Probes Needed: 1.402
+Type of Hashing: Quadratic Probing
+
+Hash Function Used: int) ((((long) ID * ID) / 1200L) % hashTable.length)
+
+Number of records added to the table: 50000 
+Table Size: 74626
+Load Factor: 0.67
+
+Average Insertion time: 4.395459666831927E7 seconds
+
+Total Table Insertion Collisions: 20699
+Average Table Insertion Collisions: 0.5669716226580476
+
+Number of collisions vs. Number of Insertions: 56.69716226580476%
+
+Total Successful Search Time: 1.60469441517E12 seconds
+Average Successful Search Time: 1.60469441517E9 seconds
+Total Probes Needed: 1256
+Average Probes Needed: 1.256
+
+Total Unsuccessful Search Time: 1.604694415173E12 seconds
+Average Unsuccessful Search Time: 1.604694415173E9 seconds
+Total Probes Needed: 1402
+Average Probes Needed: 1.402
